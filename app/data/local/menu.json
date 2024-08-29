@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza Margherita",
+        "description": "Classic cheese and tomato pizza",
+        "price": 8.99
+    },
+    {
+        "id": 2,
+        "name": "Caesar Salad",
+        "description": "Romaine lettuce with Caesar dressing and croutons",
+        "price": 7.99
+    },
+    {
+        "id": 3,
+        "name": "Spaghetti Bolognese",
+        "description": "Pasta with a rich tomato and meat sauce",
+        "price": 10.99
+    }
+]
